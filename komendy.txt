@@ -9,3 +9,4 @@ git init
 git status - sprawdzenie status repozytorium
 git add plik1.txt plik2.txt komendy.txt
 git add . doda wszystko do commita
+git commit -m 'Add four files'
