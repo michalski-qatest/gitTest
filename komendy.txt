@@ -1,0 +1,11 @@
+Working copy to pliki znajdujace sie lokalnie w folderze repozytorium GITAINDEX (staging Area) - 
+Pliki gotowe do następnego commita, gotowe do wprowadzenia jako permanentna zmiana. 
+Aby dodac pliki z Working Copy  do INDEXU uywamy kommendy GIT ADD, a następnie GIT COMMIT aby przetransportwac pliki do lokalnego 
+repozytoriumGIT PUSH - wyslanie plikow do zewnetrznego repozytoriumGIT fatch - pobranie wszystkich zmian od innych developerow 
+git merge - 
+
+
+git init
+git status - sprawdzenie status repozytorium
+git add plik1.txt plik2.txt komendy.txt
+git add . doda wszystko do commita
