@@ -1,1 +1,3 @@
 to jest pierwsza wersja pliku nr 4
+
+/* MICHALSKI */
